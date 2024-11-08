@@ -1,2 +1,2 @@
-# Data-Analysis-Dashboard
-Ideveloped a comprehensive project in Excel,creating multiple dashboards and tables to analyze the data. This process involved several stages,including data preprocessing,data cleaning, and data visualization.
+# Sales-Dashboard-Data-Analysis(Interactive Dashboard creation using MS Excel)
+The Sales Man wants to create an annual sales report. so that,the owner of the company can understand their customers and grow more sales.
